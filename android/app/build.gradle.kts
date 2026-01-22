@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.oving8"
+    namespace = "com.example.todoListApp"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
