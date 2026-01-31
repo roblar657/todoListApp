@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:oving8/widgets/main_view.dart';
+import 'package:todo_list_app/widgets/main_view.dart';
 
 void main() => runApp(const MyApp());
 

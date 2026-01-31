@@ -170,11 +170,14 @@ class _GoalList extends State<GoalList>
       //Hvis item finnes
       if (index < widget.items.length && index < widget.finished.length) {
 
+        //Hent item
+        final itemText = widget.items[index];
 
         widget.items.removeAt(index);
         widget.finished.removeAt(index);
 
-
+        //slett item
+        widget.onItemDeleted?.call(itemText);
       }
     });
 
