@@ -1,16 +1,10 @@
 # TodoListApp
+Huske liste for ulike gjøremål, laget i flutter.
 
-TodoListApp
+# Bilder av app
 
-## Getting Started
+<img width="248" height="520" alt="Skjermbilde 2026-02-01 031531" src="https://github.com/user-attachments/assets/1cbff396-7069-439c-bae3-5f512d75c789" />
 
-This project is a starting point for a Flutter application.
+<img width="771" height="333" alt="Skjermbilde 2026-02-01 031852" src="https://github.com/user-attachments/assets/b7005a6f-c606-4724-accc-d0a7f1a24ab4" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="764" height="358" alt="Skjermbilde 2026-02-01 031908" src="https://github.com/user-attachments/assets/b65333a9-da71-48f4-a734-b2484862e9d0" />
